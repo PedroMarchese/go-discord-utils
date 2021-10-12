@@ -1,4 +1,4 @@
-module github.com/bytixo/go-discord-utils
+module dcutils
 
 go 1.17
 
